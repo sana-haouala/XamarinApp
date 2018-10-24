@@ -1,0 +1,27 @@
+C:\Xamarin\ISAMM Training Session\App1\App1\App1\bin\Debug\netstandard2.0\App1.deps.json
+C:\Xamarin\ISAMM Training Session\App1\App1\App1\bin\Debug\netstandard2.0\App1.dll
+C:\Xamarin\ISAMM Training Session\App1\App1\App1\bin\Debug\netstandard2.0\App1.pdb
+C:\Xamarin\ISAMM Training Session\App1\App1\App1\obj\Debug\netstandard2.0\App1.csprojResolveAssemblyReference.cache
+C:\Xamarin\ISAMM Training Session\App1\App1\App1\obj\Debug\netstandard2.0\App1.csproj.CoreCompileInputs.cache
+C:\Xamarin\ISAMM Training Session\App1\App1\App1\obj\Debug\netstandard2.0\App1.App.xaml.g.cs
+C:\Xamarin\ISAMM Training Session\App1\App1\App1\obj\Debug\netstandard2.0\App1.MainPage.xaml.g.cs
+C:\Xamarin\ISAMM Training Session\App1\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfoInputs.cache
+C:\Xamarin\ISAMM Training Session\App1\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfo.cs
+C:\Xamarin\ISAMM Training Session\App1\App1\App1\obj\Debug\netstandard2.0\App1.dll
+C:\Xamarin\ISAMM Training Session\App1\App1\App1\obj\Debug\netstandard2.0\App1.pdb
+C:\Xamarin\ISAMM Training Session\App1\App1\App1\obj\Debug\netstandard2.0\App1.Page1.xaml.g.cs
+C:\Xamarin\ISAMM Training Session\App1\App1\App1\obj\Debug\netstandard2.0\App1.Page2.xaml.g.cs
+C:\Xamarin\ISAMM Training Session\App1\App1\App1\obj\Debug\netstandard2.0\App1.dll.mdb
+C:\Xamarin\ISAMM Training Session\App1\App1\App1\bin\Debug\netstandard2.0\App1.dll.mdb
+C:\VS\XAMARIN\App1\App1\App1\App1\bin\Debug\netstandard2.0\App1.deps.json
+C:\VS\XAMARIN\App1\App1\App1\App1\bin\Debug\netstandard2.0\App1.dll
+C:\VS\XAMARIN\App1\App1\App1\App1\bin\Debug\netstandard2.0\App1.pdb
+C:\VS\XAMARIN\App1\App1\App1\App1\obj\Debug\netstandard2.0\App1.csprojResolveAssemblyReference.cache
+C:\VS\XAMARIN\App1\App1\App1\App1\obj\Debug\netstandard2.0\App1.csproj.CoreCompileInputs.cache
+C:\VS\XAMARIN\App1\App1\App1\App1\obj\Debug\netstandard2.0\App1.App.xaml.g.cs
+C:\VS\XAMARIN\App1\App1\App1\App1\obj\Debug\netstandard2.0\App1.Page1.xaml.g.cs
+C:\VS\XAMARIN\App1\App1\App1\App1\obj\Debug\netstandard2.0\App1.Page2.xaml.g.cs
+C:\VS\XAMARIN\App1\App1\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfoInputs.cache
+C:\VS\XAMARIN\App1\App1\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfo.cs
+C:\VS\XAMARIN\App1\App1\App1\App1\obj\Debug\netstandard2.0\App1.dll
+C:\VS\XAMARIN\App1\App1\App1\App1\obj\Debug\netstandard2.0\App1.pdb

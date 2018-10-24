@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App1.Page1">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Orientation="Vertical" Margin="20,20,20,20" Spacing="10" >
+                <Label x:Name="myLabel" Text="Welcome to Xamarin.Forms!"
+                     />
+                <ActivityIndicator Color="Red" IsRunning="True" />
+                <Entry Placeholder="Whrite here ! " HeightRequest="50" />
+                <Editor HeightRequest="50" />
+                <DatePicker />
+                <TimePicker />
+                <Button Text="Press Here!" Clicked="btnClicked" />
+                <ListView x:Name="myList" />
+                <SearchBar x:Name="mySearchBar" SearchButtonPressed="SearchPressed" />
+                <Picker>
+                    <Picker.Items>
+                        <x:String>Gassen</x:String>
+                        <x:String>Gassen</x:String>
+                        <x:String>housni</x:String>
+                        <x:String>Gassen</x:String>
+                    </Picker.Items>
+                </Picker>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>
